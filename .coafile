@@ -1,0 +1,5 @@
+[cli]
+bears = MementoBear
+#log_level = DEBUG
+files = hibahcms/*.md, hibahcmb/*md, _posts/*.md, _posts/*.markdown
+link_ignore_list = http://web.facebook.com/**, https://web.facebook.com/**, http://www.facebook.com/**, https://www.facebook.com/**, http://m.facebook.com/**, https://m.facebook.com/**, http://www.youtube.com/**, https://www.youtube.com/**, http://youtube.com/**, https://youtube.com/**
